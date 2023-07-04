@@ -81,7 +81,7 @@ cipher_wen.cipher(output_path=None, char_colors=None, horn_image_path=None, back
 
 ## 演示
 
-![1](https://github.com/aoguai/CipherWen/blob/main/img/test.png)
+![1](https://github.com/aoguai/CipherWen/blob/master/img/test.png)
 
 ## 注意事项
 
